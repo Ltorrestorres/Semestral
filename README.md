@@ -1,4 +1,4 @@
 # Semestral
 Universidad Tecnologica
 
-Usando Git-Hub
+Shoping chic
